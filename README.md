@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codegamer01
-- 👀 I’m interested in coing
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning data structures and algorithms
 
 <!---
